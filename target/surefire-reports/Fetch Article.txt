@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: Fetch Article
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 15.568 s <<< FAILURE! - in Fetch Article
+User fetching an Article(Fetch Article)  Time elapsed: 15.568 s  <<< FAILURE!
+junit.framework.ComparisonFailure: expected:<[fail]> but was:<[pass]>
+

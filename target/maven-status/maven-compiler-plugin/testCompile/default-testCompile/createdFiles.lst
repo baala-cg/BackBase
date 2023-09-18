@@ -1,0 +1,8 @@
+com\bb\pages\LoginApp.class
+com\bb\runner\TestRunner.class
+com\bb\util\ReusableFunctions.class
+com\bb\util\GlobalData.class
+com\bb\pages\Article.class
+com\bb\util\Excel.class
+com\bb\stepDefinition\StepDefinition.class
+com\bb\util\Configuration.class
